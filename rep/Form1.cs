@@ -16,5 +16,8 @@ namespace rep
         {
             InitializeComponent();
         }
+
+        void display() { }
+
     }
 }
